@@ -12,7 +12,7 @@ pub use errors::*;
 pub use instructions::*;
 pub use state::*;
 
-declare_id!("coUnmi3oBUtwtd9fjeAvSsJssXh5A5xyPbhpewyzRVF");
+declare_id!("F8iydwkD87yisQCHz5DJtsEwqBkqMeeAPtR17CAgxEc6");
 
 #[program]
 pub mod tokenvesting {
